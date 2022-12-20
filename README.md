@@ -1,4 +1,6 @@
 # mtg_price_history
+(WIP - analysis not complete)
+
 Analysis of Magic: The Gathering price histories per set; when is the best time to buy cards after a set comes out?
 
 To answer this question I scrapped price history data for a variety of magic sets from [MTGGoldfish.com](https://www.mtggoldfish.com/). Although this site offers a premium subscription, I decided using web scrapping to acquire the time series data would be more interesting!
